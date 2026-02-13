@@ -2,7 +2,7 @@
 
 
 
-## 🎯 Features
+## Project Features
 
 - **Product Listing**: Browse products fetched from PostgreSQL database
 - **Cart Management**: Add/remove items with real-time updates
@@ -12,7 +12,7 @@
 - **Error Handling**: Comprehensive error states and validation
 - **Responsive Design**: Modern, clean UI that works on all devices
 
-## 🏗️ Architecture
+## Project Architecture
 
 ### Backend (NestJS)
 - **Modular Structure**: Separate modules for Products and Cart
@@ -27,4 +27,6 @@
 - **Component-Based**: Reusable components (ProductCard, CartItem, CartSummary)
 - **Type Safety**: TypeScript interfaces for all API responses
 - **Optimized Rendering**: Minimal re-renders with proper state updates
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/663a14ae-12a3-4514-93cb-4afcf5ca9e5e" />
 
